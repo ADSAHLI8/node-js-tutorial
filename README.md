@@ -1,6 +1,6 @@
 # Node js Blogs Project ( YOUTUBE )
 
-This is the blogs project from the [YouTube crash course]((https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU).
+This is the blogs project from the [YouTube crash course](https://rb.gy/bnp9no)).
 
 <img src="public/screen.png" />
 
